@@ -1,8 +1,6 @@
 hôm nay 17/12/2022 mưa gió lạnh lẽo
 <<<<<<< HEAD
 học tập tốt bkhbk
-======
->>>>>>> e199289be5a7e642a30805eb6661f0815394eac9
 đã đổi
 bị xung đột
 
